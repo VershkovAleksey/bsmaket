@@ -241,7 +241,7 @@
      justify-content: space-between;
      
 }
-.main__allpost{
+.main__allPost{
      font-family: 'Sen';
      font-style: normal;
      font-weight: 700;
@@ -723,6 +723,7 @@
 }
 .joinUs__wrapper{
      padding: 128px 500px 128px 500px;
+     text-align: center;
      text-align: center;
 }
 .joinUs__line1{
